@@ -1,0 +1,15 @@
+.green-text {
+  color: green;
+}
+
+#short {
+  display: none;
+}
+
+#all {
+  display: none;
+}
+
+#tall {
+  display: none;
+}
